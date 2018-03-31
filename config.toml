@@ -56,10 +56,10 @@ DefaultContentLanguage = "en"
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
-  leadText = "We're a group of people who explore the question: how can I have a positive impact with my life and career?"
+  leadText = "We're a group of people who examine the question: how can I have a positive impact with my life and career?"
   firstSectionHeader = "Doing good better"
   secondSectionHeader = "Building a community"
-  thirdSectionHeader = "Finding better ways to help"
+  thirdSectionHeader = "Finding better ways to make a difference"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
@@ -86,6 +86,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""https://www.facebook.com/EAUSYD/"
+  facebookUrl = "https://www.facebook.com/EAUSYD/"
   # twitterUrl = ""
   # meetupUrl = ""
