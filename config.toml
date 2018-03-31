@@ -18,15 +18,15 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Effective Altruism at the University of Sydney"
+  title = "Effective Altruism USYD"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism USYD"
-  strapline = "Doing Good Better"
-  # Alt strapline = "A Life of Positive Impact"
+  fullTitle = "Effective Altruism at the University of Sydney"
+  strapline = "A Life of Positive Impact"
+  # Alt strapline = "Doing Good Better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
