@@ -26,7 +26,6 @@ DefaultContentLanguage = "en"
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Effective Altruism at the University of Sydney"
   strapline = "A Life of Positive Impact"
-  # Alt strapline = "Doing Good Better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
@@ -42,7 +41,7 @@ DefaultContentLanguage = "en"
   home = "Home"
   faq = "FAQ"
   effectiveAltruism = "Effective Altruism"
-  aboutEA = "About Effective Altruism"
+  aboutEA = "About EA"
   readingMaterial = "Reading Material"
   keyTerms = "Key Terms"
   organizations = "Related Organisations"
