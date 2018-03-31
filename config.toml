@@ -18,20 +18,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Effective Altruism USYD"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
-  strapline = "Helping you do good better"
+  fullTitle = "Effective Altruism USYD"
+  strapline = "Doing Good Better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <City Here>"
+  legalOrgName = "Effective Altruism USYD"
   orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  contactEmail = "eausyd@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -41,10 +41,10 @@ DefaultContentLanguage = "en"
   home = "Home"
   faq = "FAQ"
   effectiveAltruism = "Effective Altruism"
-  aboutEA = "About EA"
+  aboutEA = "About Effective Altruism"
   readingMaterial = "Reading Material"
   keyTerms = "Key Terms"
-  organizations = "Organizations"
+  organizations = "Organisations"
   contact= "Contact"
 
   [Languages.en.pages]
@@ -55,7 +55,7 @@ DefaultContentLanguage = "en"
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
-  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  leadText = "We're a group of people who explore the question: how can I have a positive impact with my life and career?"
   firstSectionHeader = "Doing good better"
   secondSectionHeader = "Building a community"
   thirdSectionHeader = "Finding better ways to help"
@@ -63,7 +63,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.contactform]
   ## -- CONTACT FORM -- ##
-  leadText = "Say hi!"
+  leadText = "Get in touch!"
   senderName = "Your name (required)"
   senderEmail = "Your email (required)"
   emailSubject = "Subject"
@@ -74,10 +74,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  firstButtonText = "Facebook Page"
+  firstButtonLink = "https://www.facebook.com/EAUSYD/"
+  secondButtonText = "Mailing List"
+  secondButtonLink = "https://docs.google.com/forms/d/e/1FAIpQLSdQb4hRN1nJ6xByzUVTrGLqdfrWSq2bmCVisk-dDwZnCJ09wQ/viewform"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -85,6 +85,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  # facebookUrl = ""
+  # twitterUrl = ""
+  # meetupUrl = ""
