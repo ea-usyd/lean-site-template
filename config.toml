@@ -45,7 +45,7 @@ DefaultContentLanguage = "en"
   aboutEA = "About Effective Altruism"
   readingMaterial = "Reading Material"
   keyTerms = "Key Terms"
-  organizations = "Organisations"
+  organizations = "Related Organisations"
   contact= "Contact"
 
   [Languages.en.pages]
