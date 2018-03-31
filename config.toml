@@ -44,7 +44,7 @@ DefaultContentLanguage = "en"
   aboutEA = "About EA"
   readingMaterial = "Reading Material"
   keyTerms = "Key Terms"
-  organizations = "Related Organisations"
+  relatedOrganisations = "Related Organisations"
   contact= "Contact"
 
   [Languages.en.pages]
@@ -78,8 +78,6 @@ DefaultContentLanguage = "en"
   firstButtonLink = "https://docs.google.com/forms/d/e/1FAIpQLSdQb4hRN1nJ6xByzUVTrGLqdfrWSq2bmCVisk-dDwZnCJ09wQ/viewform"
   secondButtonText = "Like us on Facebook"
   secondButtonLink = "https://www.facebook.com/EAUSYD/"
-  # Remove the # before the text to add the optional Meetup button
-  # meetupButtonText = "Find us on Meetup"
 
   [Languages.en.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
