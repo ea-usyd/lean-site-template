@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Effective Altruism USYD"
+  title = "Effective Altruism at the University of Sydney"
   weight = 1
   languageCode = "en"
 
@@ -26,11 +26,12 @@ DefaultContentLanguage = "en"
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Effective Altruism USYD"
   strapline = "Doing Good Better"
+  # Alt strapline = "A Life of Positive Impact"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
   legalOrgName = "Effective Altruism USYD"
-  orgLocations = "this location and that location"
+  orgLocations = "Sydney"
   contactEmail = "eausyd@gmail.com"
 
   [Languages.en.navbar]
@@ -74,10 +75,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Facebook Page"
-  firstButtonLink = "https://www.facebook.com/EAUSYD/"
-  secondButtonText = "Mailing List"
-  secondButtonLink = "https://docs.google.com/forms/d/e/1FAIpQLSdQb4hRN1nJ6xByzUVTrGLqdfrWSq2bmCVisk-dDwZnCJ09wQ/viewform"
+  firstButtonText = "Join our Mailing List"
+  firstButtonLink = "https://docs.google.com/forms/d/e/1FAIpQLSdQb4hRN1nJ6xByzUVTrGLqdfrWSq2bmCVisk-dDwZnCJ09wQ/viewform"
+  secondButtonText = "Like us on Facebook"
+  secondButtonLink = "https://www.facebook.com/EAUSYD/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
