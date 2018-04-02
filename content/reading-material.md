@@ -24,7 +24,7 @@ A good primer on GiveWell, global poverty reduction (and charities in general): 
 Peter McIntyre write a post summarising charity selection heuristics, and some cause areas: **[Effective charities 101](http://mcntyr.com/effective-charities-101/)**
 
 
-How should you spend your 80,000 hours of your working life? The Organisation 80,000 Hours has put together an **[incredible guide on careers](https://80000hours.org/career-guide/)**.
+How should you spend your 80,000 hours of your working life? **[80,000 Hours](https://80000hours.org/)** has put together an **[incredible guide on careers](https://80000hours.org/career-guide/)**.
 
 
 Singer’s books: **[The Life You Can Save](http://www.amazon.com/The-Life-You-Can-Save/dp/0812981561)**, and **[The Most Good You Can Do](http://www.amazon.com/The-Most-Good-You-Can/dp/0300180276)** are good introductions, and have changed many people’s lives.
